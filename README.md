@@ -32,7 +32,7 @@ buyer-lead-intake-agent/
 │
 ├── data/
 │   ├── mls_listings.csv
-│   └── buyer_inquiries.csv
+│   └── sample_buyer_inquiries.json
 │
 ├── outputs/
 │   ├── LEAD-2026-001.md
